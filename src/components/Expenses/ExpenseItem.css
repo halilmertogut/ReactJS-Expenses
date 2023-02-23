@@ -7,6 +7,13 @@
   background-color: #4b4b4b;
 }
 
+.done{
+  text-decoration: line-through;
+}
+
+.hide {
+  display: none;
+}
 .expense-item__description {
   display: flex;
   flex-direction: column;
